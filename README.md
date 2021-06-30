@@ -1,1 +1,1 @@
-# Facial-Detection-and-Recognition
+# facial-detection-and-recognition
